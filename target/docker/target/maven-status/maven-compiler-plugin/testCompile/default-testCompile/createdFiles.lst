@@ -1,0 +1,13 @@
+com\yzx\weather\t_craw1\city\CityPilpline1.class
+com\yzx\weather\t_craw2\city\CityPilpline2.class
+com\yzx\weather\t_craw2\city\CityProcessor2.class
+com\yzx\weather\t_craw2\city\CitySpider2.class
+com\yzx\weather\t_craw1\weather\WeatherPilpline1.class
+com\yzx\weather\t_craw2\weather\WeatherProcessor2.class
+com\yzx\weather\t_craw1\city\CityProcessor1.class
+com\yzx\weather\t_craw1\city\CitySpider1.class
+com\yzx\weather\MyTest.class
+com\yzx\weather\t_craw1\weather\WeatherProcessor1.class
+com\yzx\weather\t_craw1\weather\WeaterSpider1.class
+com\yzx\weather\t_craw2\weather\WeaterSpider2.class
+com\yzx\weather\t_craw2\weather\WeatherPilpline2.class
