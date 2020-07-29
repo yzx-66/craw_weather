@@ -8,13 +8,17 @@
 * 运行数据库脚本 修改配置文件中的数据库用户名和密码
 * 修改redis地址（webmagic缓存爬取过的地址）
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0728/231751_3d1f2def_5494607.png "屏幕截图.png")
+  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0728/231751_3d1f2def_5494607.png "屏幕截图.png")
 
 #### 爬取
-* 如果要爬取到本地：运行test下的 WeaterSpider1（http://lishi.tianqi.com/） 和 WeaterSpider2（http://www.tianqihoubao.com/lishi/）
-* 如果要对外提供爬取接口：修改oos的配置
+* 如果要爬取到本地：
+    天气网：com.yzx.weather.t_craw1.weather.WeaterSpider1
+    天气后报：com.yzx.weather.t_craw2.weather.WeaterSpider2
+    
+* 如果要对外提供爬取接口（基于SpringBoot）：修改oos的配置
 
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0728/231819_d75a62fa_5494607.png "屏幕截图.png")
+  ![输入图片说明](https://images.gitee.com/uploads/images/2020/0728/231819_d75a62fa_5494607.png "屏幕截图.png")
 
 #### 使用技术
 * WebMagic + SpringBoot + MybatisPlus + Redis + OSS
+* webmagic（我的blog）：https://blog.csdn.net/weixin_43934607/article/details/101646256
