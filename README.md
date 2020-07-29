@@ -12,8 +12,8 @@
 
 #### 爬取
 * 如果要爬取到本地：
-    天气网：com.yzx.weather.t_craw1.weather.WeaterSpider1
-    天气后报：com.yzx.weather.t_craw2.weather.WeaterSpider2
+  * 天气网：com.yzx.weather.t_craw1.weather.WeaterSpider1    
+  * 天气后报：com.yzx.weather.t_craw2.weather.WeaterSpider2
     
 * 如果要对外提供爬取接口（基于SpringBoot）：修改oos的配置
 
